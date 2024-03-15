@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**tannaporn/tannaporn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer (C#) to built website and windows application development by customer's requirements. I've 4.6 years work experience. I can apply my knowledge and skill to be highly motivated for continuous learning and improvement.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Backend developer 
+🌱 I’m currently learning React , Node . Express , Tailwind css, Ant design etc.
+📫 How to reach me  tanaporn.fern1811@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Work experiece (4.6-year experience on  developerment (C#))
+
+Humanica | (May 2019 – June 2021)
+
+PTT Digital Solutions | (June 2021 – March 2022)
+
+
+Icon Framework | (March 2022 - Present)
+
+
+🖥️ My tech stack
+Languages:
+C# JavaScript, HTML, CSS 
+Framework/library: Entity ,Dapper,DependencyInjection
+Database
+SQL: MySQL
+NoSQL: MongoDb(basic),Fire base (basic),redis (basic)
