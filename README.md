@@ -21,7 +21,11 @@ Icon Framework | (March 2022 - Present)
 🖥️ My tech stack
 Languages:
 C# JavaScript, HTML, CSS 
+
 Framework/library: Entity ,Dapper,DependencyInjection
+
 Database
+
 SQL: MySQL
+
 NoSQL: MongoDb(basic),Fire base (basic),redis (basic)
