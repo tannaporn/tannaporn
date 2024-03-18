@@ -29,3 +29,5 @@ Database
 SQL: MySQL
 
 NoSQL: MongoDb(basic),Fire base (basic),redis (basic)
+
+![tannaporn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tannaporn&theme=tokyonight&hide_border=true)
