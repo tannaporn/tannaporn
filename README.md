@@ -20,26 +20,26 @@ Icon Framework | (March 2022 - Jul 2024)
 
 🖥️ My tech stack
 
-C# .Net core 
-Node.JS Express (basic)
+C# .Net core ,
+Node.JS Express (basic),
 React.JS Next.JS (basic)
 
 Database
 
-MS SQL
-MongoDb(basic)
-Fire base (basic)
+MS SQL,
+MongoDb(basic),
+Fire base (basic),
 redis (basic)
 
 Tools
 
-Git
-Postman
+Git,
+Postman,
 Docker (Basic)
 
 RPA Tools
 
-UIPath Studio
+UIPath Studio,
 Playwright
 
 
