@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software developer (C#) to built website and windows application development by customer's requirements. I've 4.6 years work experience. I can apply my knowledge and skill to be highly motivated for continuous learning and improvement.
+I am a software developer (C# .Net core) to built website and windows application development by customer's requirements. I've 4.6 years work experience. I can apply my knowledge and skill to be highly motivated for continuous learning and improvement.
 
 🔭 I’m currently working on Backend developer 
 
@@ -15,19 +15,32 @@ Humanica | (May 2019 – June 2021)
 PTT Digital Solutions | (June 2021 – March 2022)
 
 
-Icon Framework | (March 2022 - Present)
+Icon Framework | (March 2022 - Jul 2024)
 
 
 🖥️ My tech stack
-Languages:
-C# JavaScript, HTML, CSS 
 
-Framework/library: Entity ,Dapper,DependencyInjection
+C# .Net core 
+Node.JS Express (basic)
+React.JS Next.JS (basic)
 
 Database
 
-SQL: MySQL
+MS SQL
+MongoDb(basic)
+Fire base (basic)
+redis (basic)
 
-NoSQL: MongoDb(basic),Fire base (basic),redis (basic)
+Tools
+
+Git
+Postman
+Docker (Basic)
+
+RPA Tools
+
+UIPath Studio
+Playwright
+
 
 ![tannaporn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tannaporn&theme=tokyonight&hide_border=true)
